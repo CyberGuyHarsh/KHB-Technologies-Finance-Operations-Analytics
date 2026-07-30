@@ -3,9 +3,8 @@
 # 📊 KHB Technologies – Finance Operations Analytics
 
 ## Overview
-This project analyzes finance operations using SQL, Excel, Power Pivot, and DAX to identify cash flow issues, overdue payments, customer credit risk, and profitability trends.
+KHB Technologies is a technology solutions company specializing in IT hardware, networking, and enterprise solutions. This project focused on analyzing the company's finance operations to improve cash flow, customer payment collections, credit risk management, and overall financial performance through data-driven insights.
 
-## Tools
 - SQL
 - Excel
 - Power Pivot
